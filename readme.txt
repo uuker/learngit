@@ -6,3 +6,4 @@ Create a new branch is quick and simple.i
 Newline in dev blah blah!!
 Here is a newline
 local changed
+anther fella modyied
